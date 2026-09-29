@@ -1,6 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-  <circle cx="100" cy="100" r="100" fill="black"/>
-  <circle cx="100" cy="100" r="63.4" fill="white"/>
-  <circle cx="100" cy="100" r="43" fill="black"/>
-  <circle cx="100" cy="100" r="21.6" fill="white"/>
+  <path fill="black" fill-rule="evenodd" d="M0,100 a100,100 0 1,0 200,0 a100,100 0 1,0 -200,0 Z M36.6,100 a63.4,63.4 0 1,0 126.8,0 a63.4,63.4 0 1,0 -126.8,0 Z M57,100 a43,43 0 1,0 86,0 a43,43 0 1,0 -86,0 Z M78.4,100 a21.6,21.6 0 1,0 43.2,0 a21.6,21.6 0 1,0 -43.2,0 Z"/>
 </svg>
